@@ -44,3 +44,4 @@ Go to created folder and run:
 [deps-url]: https://david-dm.org/vkcom/create-vk-mini-app# gorillabonus
 # gorillabonus
 # bonus
+# gorillabonus
